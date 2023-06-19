@@ -1,3 +1,3 @@
- function home(params) {
-    $
+ function f() {
+    alert("salom");
 }
